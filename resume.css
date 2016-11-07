@@ -6,6 +6,6 @@
     /*padding: 45px;*/
 }
 
-.markdown-body p+ul {
-    margin-top: 0.5em;
+.markdown-body p {
+    margin-bottom: 0px;
 }
