@@ -1,0 +1,11 @@
+.markdown-body {
+    box-sizing: border-box;
+    margin: 0 auto;
+    min-width: 200px;
+    max-width: 980px;
+    /*padding: 45px;*/
+}
+
+.markdown-body p+ul {
+    margin-top: 0.5em;
+}
