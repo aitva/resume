@@ -1,3 +1,5 @@
+<!--<div class="picture-container"><image class="picture" src="pictures/IMG_20161108_172525.jpg" /></div>-->
+
 Louis Arod
 ==========
 

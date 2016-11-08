@@ -1,9 +1,17 @@
+/*html, body {
+    margin: 0;
+    padding: 0;
+}*/
+
 .markdown-body {
     box-sizing: border-box;
     margin: 0 auto;
     min-width: 200px;
     max-width: 980px;
-    /*padding: 45px;*/
+}
+
+.markdown-body h1 {
+    margin-top: 0em; 
 }
 
 .markdown-body h2 {
@@ -13,4 +21,12 @@
 
 .markdown-body p {
     margin-bottom: 0px;
+}
+
+.markdown-body .picture-container {
+    overflow: hidden;
+    height: 10em;
+    float: right;
+    width: 10em;
+    border: 1px solid #eee;
 }
