@@ -6,6 +6,11 @@
     /*padding: 45px;*/
 }
 
+.markdown-body h2 {
+    margin-bottom: 6px;
+    margin-top: 20px;
+}
+
 .markdown-body p {
     margin-bottom: 0px;
 }
