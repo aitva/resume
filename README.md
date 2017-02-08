@@ -1,15 +1,10 @@
-resume
-======
+#resume
 
 Resume contains my resume in markdown format.
 
-Building
---------
+##Display The Resume
 
-Any "markdown-to-html" tool should do. As a reference I am using :
-
--	[Blackfriday](https://github.com/russross/blackfriday-tool)
--	[markdownfmt](https://github.com/shurcooL/markdownfmt)
--	Vim...
-
-Just build the project, open the html in a browser and print it as PDF. Enjoy !
+I render the resume as HTML using [Caddy](https://caddyserver.com).
+To display the resume just start caddy in this folder, a website 
+will be available at http://localhost:8080/ and my resume at 
+http://localhost:8080/louis_arod.md.

@@ -1,0 +1,6 @@
+0.0.0.0:8080 {
+    markdown / {
+        template index.html
+        template resume template/resume.html
+    }
+}
