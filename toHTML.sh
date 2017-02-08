@@ -1,10 +1,24 @@
 #!/bin/sh
 set -e
+	
+alias errcho='>&2 echo'
+if [ $# -ne 1 ]; then
+    errcho "usage: $0 file.md"
+    errcho "    Format Markdown file and produce an HTML preview."
+    exit 1
+fi
+
+filename=$(basename "$1")
+filename="${filename%.*}"
+infile=$1
+outfile="$filename.html"
+
 echo "formating source code..."
 markdownfmt -w .
+    
 
 echo "generating html..."
-cat > louis_arod.html <<EOT
+cat > $outfile <<EOT
 <!doctype html>
 <html>
     <head>
@@ -16,8 +30,8 @@ cat > louis_arod.html <<EOT
     <body>
         <main class="markdown-body">
 EOT
-blackfriday-tool louis_arod.md >> louis_arod.html
-cat >> louis_arod.html <<EOT
+blackfriday-tool $infile >> $outfile
+cat >> $outfile <<EOT
         </main>
     </body>
 </html>
