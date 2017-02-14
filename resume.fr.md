@@ -13,12 +13,12 @@ Louis Arod
 Formation
 ---------
 
-**Diplôme d'Ingénieur Informatique et Application**, *félicitations du jury*, ESIEE Paris (2011-2015)
+**Diplôme d'Ingénieur Informatique et Application**, *félicitations du jury*, ESIEE Paris (2012-2015)
 
 -	Mathématiques appliqués aux traitements 3D, techniques de simulation et de modélisation 3D
 -	National Taipei University Of Technology, Taiwan : traitement d'image, théorie des probabilitées, partitionnement de données
 
-**DUT Réseaux et Télécommunication**, *félicitations du jury*, IUT1 Grenoble (2009-2011)
+**DUT Réseaux et Télécommunication**, *félicitations du jury*, IUT1 Grenoble (2009-2012)
 
 -	Administration, architecture et développement réseau (Windows, Debian et Red Hat)
 -	Da Nang College Of Technology, Vietnam : filtre de Kalman & simulation robotique
@@ -33,7 +33,7 @@ Expériences Professionnelles
 -	Déploiement, maintenance et formation client sur une infrastructure applicative (10 applications sur 20 sites, Royal Mail)
 -	Développement C/C++ et application web (Royal Mail, Posti, Postnord et Bpost)
 
-**Solystic**, apprenti ingénieur (2011-2015)
+**Solystic**, apprenti ingénieur (2012-2015)
 
 -	Conception, développement et livraison d'un système de base de données
 -	Développement d'un serveur de traces graphiques
