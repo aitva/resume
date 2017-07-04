@@ -2,7 +2,7 @@
 title = "Louis Arod - CV"
 template = "resume"
 +++
-<!--<div class="picture-container"><image class="picture" src="pictures/IMG_20161108_172525.jpg" /></div>-->
+<image class="picture" src="pictures/IMG_20170704_171422.jpg" />
 Louis Arod
 ==========
 
@@ -28,15 +28,16 @@ Formation
 Expériences Professionnelles
 ----------------------------
 
+**Simplon**, formateur (2017)
+
+- Formateur pour la 3ième promotion de Villeurbanne sur le cursus développeur web
+
 **Solystic**, ingénieur informatique (2015-2016)
 
--	Déploiement, maintenance et formation client sur une infrastructure applicative (10 applications sur 20 sites, Royal Mail)
+-	Déploiement, maintenance et formation client sur une infrastructure applicative (Royal Mail)
 -	Développement C/C++ et application web (Royal Mail, Posti, Postnord et Bpost)
 
 **Solystic**, apprenti ingénieur (2012-2015)
-
--	Conception, développement et livraison d'un système de base de données
--	Développement d'un serveur de traces graphiques
 
 Compétences
 -----------
@@ -49,7 +50,7 @@ Compétences
 -	Javascript, front-end & back-end (*JavaScript: The Good Parts*, D. Crockford)
 -	HTML, CSS, PHP & SQL (*PHP & MySQL*, O'Reilly)
 
-**Langues** : Anglais (C2), Italien (B2), Mandarin (notions), Vietnamien (notions)
+**Langues** : Anglais (C1), Italien (B2), Mandarin (notions), Vietnamien (notions)
 
 Intérêts
 --------
